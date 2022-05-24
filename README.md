@@ -9,6 +9,7 @@ In order to run this, you will first need to ensure that your system has the req
 # Steps to run
 
 pip install -r requirements.txt
+
 python3 main.py
 
 # Prompts on the command line

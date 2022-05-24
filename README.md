@@ -1,8 +1,11 @@
 ### Paragraph-Summarization
 # Requirements
 
-This project was done on Google Colab and then run on a local machine. However this is not system system and can be run on any computer that can run python. For some reason, if your system is not compatible to run python, you can upload "main.py" on Google Colab and view the output.
+This project was done on Google Colab and then also run on a local machine with the following specifications-
+
 Machine - Apple Mac M1 - Monterey OS
+
+However this is not system specific and can hence be run on any computer that can run python. For some reason, if your system is not compatible to run python, you can upload "main.py" on Google Colab and view the output.
 
 In order to run this, you will first need to ensure that your system has the required libraries. These are mentioned in the requirements.txt file.
 
